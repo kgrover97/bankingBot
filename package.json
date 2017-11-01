@@ -1,0 +1,19 @@
+{
+  "name": "bankingbot",
+  "version": "1.0.0",
+  "description": "Banking bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ubc.ca/grover97/bankingbot.git"
+  },
+  "author": "Karan Grover",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  }
+}
